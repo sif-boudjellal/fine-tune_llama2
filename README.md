@@ -25,8 +25,10 @@ Stay tuned for more exciting developments! Here's what's on the horizon:
 
 1. **Quantizing the Model**: Optimize the LLMA2 model to run efficiently on CPUs.
 2. **Chat App Development**: Create an interactive chat application where you can communicate with the model using images or PDFs.
-3. 
+
 **Stay Connected**
+
+
 Feel free to explore the tutorial and engage with the LLMA2 model. Don't hesitate to reach out if you have questions or feedback. Connect with us on LinkedIn for updates and discussions!
 
 [[LinkedIn](https://www.linkedin.com/in/sif-eddine-boudjellal/)]
